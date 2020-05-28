@@ -46,7 +46,7 @@ client2.on('message', message => {
   if (message.content === '$d') {
 message.channel.send('#daily')
   }
-  if(message.content === '$c2'){
+  if(message.content === '$c'){
 message.channel.send('#credits')
   }
    if(message.content === '$r'){
