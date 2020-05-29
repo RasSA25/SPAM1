@@ -107,7 +107,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === '$r'){
-message.channel.send("#rep "+"<@" + myid + ">")
+message.channel.send("#rep "+"<@" + 453855300165042176 + ">")
   }
   if (message.content === '$p') {
 message.channel.send('#profile')
